@@ -13,7 +13,7 @@
 --------------------------------------------------------------
 
 -Working:
-* WI-FI (Always working, even in recovery mode)
+* WI-FI (Always working, even in recovery mode, so you can install the operating system using wifi)
 * Bluetooth (Airpods Pro 2, It sounds glitched)
 * Siri
 * iGPU acceleration
