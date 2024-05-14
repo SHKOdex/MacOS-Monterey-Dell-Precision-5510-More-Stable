@@ -1,6 +1,6 @@
 # MacOS Monterey
 
-- Setup:
+-Setup:
 * Dell Precision 5510 (Emulate: MacBook Pro (15-inch, 2016))
 * CPU: Intel Core i7 6820HQ
 * iGPU: Intel HD Graphics 530
@@ -10,15 +10,21 @@
 * NVME M.2: 250GB
 * SSD: 512GB
 
-- Working:
+--------------------------------------------------------------
+
+-Working:
 * WI-FI (Always working, even in recovery mode)
 * Bluetooth (Airpods Pro 2, It sounds glitched)
 * Siri
 * iGPU acceleration
 * Not overheat
 
-- Not Working:
+--------------------------------------------------------------
+
+-Not Working:
 * dGPU -disabled- (Nvidia M1000M)
 
-- Details:
+--------------------------------------------------------------
+
+-Details:
 * If the screen brightness reaches 0%, it turns off completely, the minimum brightness is 1%
