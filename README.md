@@ -1,4 +1,4 @@
-# MacOS Monterey
+# MacOS Monterey | Precision 5510
 
 -Setup:
 * Dell Precision 5510 (Emulate: MacBook Pro (15-inch, 2016))
