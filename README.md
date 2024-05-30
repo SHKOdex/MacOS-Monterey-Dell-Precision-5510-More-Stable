@@ -23,6 +23,7 @@
 
 -Not Working:
 * dGPU -disabled- (Nvidia M1000M)
+* Apple Music (Only works with AAC 256kbps transmission and downloads, Dolby Atmos off)
 
 --------------------------------------------------------------
 
