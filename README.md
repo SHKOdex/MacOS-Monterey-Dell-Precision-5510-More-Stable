@@ -26,6 +26,3 @@
 * Apple Music (Only works with AAC 256kbps transmission and downloads, Dolby Atmos off)
 
 --------------------------------------------------------------
-
--Details:
-* If the screen brightness reaches 0%, it turns off completely, the minimum brightness is 1%
